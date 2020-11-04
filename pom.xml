@@ -19,7 +19,7 @@ limitations under the License.
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>za.co.absa</groupId>
-    <artifactId>jdbc2s_2.11</artifactId>
+    <artifactId>jdbc2s_2.12</artifactId>
     <version>1.2.1-SNAPSHOT</version>
     <name>jdbc2s</name>
     <description>JDBC streaming source for Spark</description>
@@ -58,12 +58,12 @@ limitations under the License.
         <h2.version>1.4.196</h2.version>
 
         <!--Scala-->
-        <scala.version>2.11.12</scala.version>
-        <scala.compat.version>2.11</scala.compat.version>
+        <scala.version>2.12.2</scala.version>
+        <scala.compat.version>2.12</scala.compat.version>
         <specs.version>4.7.1</specs.version>
 
         <!--Spark-->
-        <spark.version>2.4.4</spark.version>
+        <spark.version>3.0.1</spark.version>
 
         <!--Play-->
         <play.json.version>2.7.4</play.json.version>
